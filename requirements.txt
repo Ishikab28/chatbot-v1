@@ -10,3 +10,5 @@ torch
 transformers
 tqdm
 protobuf
+google-cloud-aiplatform
+google-cloud-logging
